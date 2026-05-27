@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Add GitHub Releases Tab
-// @namespace    https://github.com/nvbangg/nvbangg-tools
-// @version      1.3
+// @namespace    https://github.com/nvbangg/nvbangg-projects
+// @version      1.4
 // @description  Add Releases tab after Code tab on GitHub repos
 // @author       nvbangg (https://github.com/nvbangg)
-// @copyright    Copyright (c) 2026 Nguyễn Văn Bằng (nvbangg, github.com/nvbangg)
+// @copyright    Copyright (c) 2026 nvbangg (github.com/nvbangg)
 // @match        https://github.com/*/*
 // @icon         https://github.com/favicon.ico
 // @license      MIT

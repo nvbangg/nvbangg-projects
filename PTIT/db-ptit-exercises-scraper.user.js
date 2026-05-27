@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         DB PTIT Exercises Scraper
-// @namespace    https://github.com/nvbangg/nvbangg-tools
+// @namespace    https://github.com/nvbangg/nvbangg-projects
 // @version      1.0
 // @description  Export All DB PTIT Exercises to Markdown
 // @author       nvbangg (https://github.com/nvbangg)
-// @copyright    Copyright (c) 2025 Nguyễn Văn Bằng (nvbangg, github.com/nvbangg)
-// @homepage     https://github.com/nvbangg/nvbangg-tools
+// @copyright    Copyright (c) 2025 nvbangg (github.com/nvbangg)
+// @homepage     https://github.com/nvbangg/nvbangg-projects
 // @match        https://db.ptit.edu.vn/*
-// @license      GPL-3.0
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
