@@ -20,7 +20,7 @@
 
   document.head.insertAdjacentHTML(
     "beforeend",
-    `<style>@media (max-width:767px){#${TAB_ID} [data-component="text"],#${TAB_ID} [data-content]{display:none!important}}</style>`,
+    `<style>@media(max-width:767px){body.logged-in #${TAB_ID} [data-component="text"],body.logged-in #${TAB_ID} [data-content]{display:none!important}body.logged-in #${TAB_ID}{padding:0 4px!important}}</style>`,
   );
 
   function insertReleasesTab() {
