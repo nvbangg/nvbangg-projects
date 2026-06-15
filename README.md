@@ -146,13 +146,6 @@
   </picture>
 </a>
 
-<a href="https://github.com/nvbangg/BTL_NMCNPM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=BTL_NMCNPM&border_radius=20&theme=dracula" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=BTL_NMCNPM&border_radius=20" alt="BTL_NMCNPM" />
-  </picture>
-</a>
-
 <a href="https://github.com/nvbangg/BTL_Python">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=BTL_Python&border_radius=20&theme=dracula" />
