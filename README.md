@@ -28,10 +28,10 @@
   </picture>
 </a>
 
-<a href="https://github.com/ngbangg/builder-for-morphe">
+<a href="https://github.com/nvbangg/builder-for-morphe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=ngbangg&repo=builder-for-morphe&border_radius=20&show_owner=true&theme=dracula" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ngbangg&repo=builder-for-morphe&border_radius=20&show_owner=true" alt="builder-for-morphe" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=builder-for-morphe&border_radius=20&theme=dracula" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=builder-for-morphe&border_radius=20" alt="builder-for-morphe" />
   </picture>
 </a>
 
