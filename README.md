@@ -21,10 +21,10 @@
 
 ## <a id="repositories"></a> 📦 Repositories
 
-<a href="https://github.com/nvbangg/awesome-for-morphe">
+<a href="https://github.com/nvbangg/awesome-morphe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=awesome-for-morphe&border_radius=20&theme=dracula" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=awesome-for-morphe&border_radius=20" alt="awesome-for-morphe" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=awesome-morphe&border_radius=20&theme=dracula" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nvbangg&repo=awesome-morphe&border_radius=20" alt="awesome-morphe" />
   </picture>
 </a>
 
