@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Total Stars](https://img.shields.io/github/stars/nvbangg?label=Total%20Stars&logo=apachespark)](https://github.com/nvbangg)　[![Stars](https://img.shields.io/github/stars/nvbangg/nvbangg-projects?label=Star%20this%20repo%20if%20useful%20%E2%AD%90&logo=github-sponsors)](https://github.com/nvbangg/nvbangg-projects)　[![GitHub](https://img.shields.io/badge/nvbangg-black?style=social&logo=github)](https://github.com/nvbangg)
+[![Total Stars](https://img.shields.io/github/stars/nvbangg?label=Total%20Stars&logo=apachespark)](https://github.com/nvbangg)　[![GitHub](https://img.shields.io/badge/nvbangg-black?style=social&logo=github)](https://github.com/nvbangg)
 
 </div>
 
