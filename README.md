@@ -91,7 +91,7 @@
   </picture>
 </a>
 
-- [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-projects/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
+- [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-projects/blob/main/studocu-premium-generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
 - [Code PTIT Scraper](https://github.com/nvbangg/nvbangg-projects/blob/main/PTIT/code-ptit-scraper.user.js)
 - [DB PTIT Exercises Scraper](https://github.com/nvbangg/nvbangg-projects/blob/main/PTIT/db-ptit-exercises-scraper.user.js)
 
